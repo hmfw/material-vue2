@@ -1,0 +1,26 @@
+{
+  "name": "core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "hmfw <970426404@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "2.6.14",
+    "vue-router": "3.5.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
